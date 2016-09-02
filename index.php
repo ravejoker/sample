@@ -1,3 +1,3 @@
 <?php
 
-echo "this is the index file";
+echo "sadasdasdas";
